@@ -16,9 +16,9 @@ The Project I'm Working On <a href="https://github.com/AEShooter/Mathen">[Mathen
 <a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /> Youtube Kanalım </a>
 
 
-<a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /> Discord Sunucumuz: </a>
+<a href="https://discord.gg/scRh8nhzSx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/scRh8nhzSx" height="30" width="40" /> **AEShooter** Discord Sunucumuz </a>
   
-<iframe src="https://discord.com/widget?id=839519164053192764&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.gg/VEm2M3aPep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VEm2M3aPep" height="30" width="40" /> **WINST** Discord Sunucumuz </a>
 
 E-Mail: **365aenwork@gmail.com**
 </p>
