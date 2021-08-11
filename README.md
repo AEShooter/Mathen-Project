@@ -30,6 +30,6 @@ E-Mail: **365aenwork@gmail.com**
 <h5>Important features will be given here.</h5>
 
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter" /></p>
 <hr>
 <p align="center"><tt>Made by A.E.N</tt></p>
