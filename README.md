@@ -1,4 +1,4 @@
-# Mathen
+
 <h3 align="center">Mathen Project</h3><hr>
 
 Üzerinde Çalıştığım Proje <a href="https://github.com/AEShooter/Mathen">[Mathen Project]</a>. Mathen, küçük çaplı bir matematik projesi olacaktır. Amacı ise, basit işlemleri ve denklemleri kullanıcının girdiği girdiler ile çözüme ulaştırmaktır. Bu sayede yarına yetişmesi gereken matematik ödevini veya kendi projeniz için kullanacağınız bir fonksiyonu rahatlıkla çözebileceksiniz.<br>
