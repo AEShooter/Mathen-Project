@@ -2,20 +2,21 @@
 Mathen Project Made by A.E.N
 <h3 align="center">Mathen Project</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeshooter&label=Profile%20views&color=0e75b6&style=flat" alt="aeshooter" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aeshooter&label=Profile%20views&color=0e75b6&style=flat" alt="aeshooter" /> </p>
 Üzerinde Çalıştığım Proje [Mathen Project](https://github.com/AEShooter/Mathen). Mathen, küçük çaplı bir matematik projesi olacaktır. Amacı ise, basit işlemleri ve denklemleri kullanıcının girdiği girdiler ile çözüme ulaştırmaktır. Bu sayede yarına yetişmesi gereken matematik ödevini veya kendi projeniz için kullanacağınız bir fonksiyonu rahatlıkla çözebileceksiniz.
 
 The Project I'm Working On [Mathen Project](https://github.com/AEShooter/Mathen). Mathen will be a small scale math project. Its purpose is to solve simple operations and equations with the inputs entered by the user. In this way, you will be able to easily solve the math homework that needs to be done by tomorrow or a function that you will use for your own project.
-
 <h3 align="left">Contact me:</h3>
-
+<hr>
 <p align="left">
-<a href="https://instagram.com/ahmetennn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /></a><h5>Instagram Hesabım</h5>
-  
-<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /></a><h5>Youtube Kanalım</h5>
-  
-<a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /></a><h5>GitHub Hesabım</h5>
+<h5>Instagram Hesabım</h5>
+<a href="https://instagram.com/ahmetennn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /></a>
+<hr>
+<h5>Youtube Kanalım</h5>
+<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /></a>
+<hr>
+<h5>GitHub Hesabım</h5>
+<a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /></a>
   
 E-Mail: **365aenwork@gmail.com**
 </p>
