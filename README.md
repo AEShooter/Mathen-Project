@@ -10,17 +10,20 @@ The Project I'm Working On <a href="https://github.com/AEShooter/Mathen">[Mathen
 <hr>
 <p align="left">
 
-<a href="https://instagram.com/ahmetennn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" />Instagram Hesabım</a>
+<a href="https://instagram.com/ahmetennn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /> Instagram Hesabım </a>
 
 
-<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" />Youtube Kanalım </a>
+<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /> Youtube Kanalım </a>
 
 
-<a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /> GitHub Hesabım</a>
+<a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /> Discord Sunucumuz: </a>
+  
+<iframe src="https://discord.com/widget?id=839519164053192764&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 E-Mail: **365aenwork@gmail.com**
 </p>
 <hr>
+
 <h3 align="left">Langs and Tools:</h3>
 <hr>
 <p align="left">
