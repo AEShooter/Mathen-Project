@@ -7,7 +7,7 @@
 
 The Project I'm Working On <a href="https://github.com/AEShooter/Mathen">[Mathen Project]</a>. Mathen will be a small scale math project. Its purpose is to solve simple operations and equations with the inputs entered by the user. In this way, you will be able to easily solve the math homework that needs to be done by tomorrow or a function that you will use for your own project.<hr>
 
-<h3 align="left">Contact me:</h3><br>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 
 <a href="https://instagram.com/ahmetennn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /> Instagram </a>
@@ -24,7 +24,7 @@ E-Mail: **365aenwork@gmail.com**
 </p>
 <hr>
 
-<h3 align="left">Features:</h3><br>
+<h3 align="left">Features:</h3>
 <p align="left">
 <h5>Önemli özellikler burada verilecektir.</h5>
 <h5>Important features will be given here.</h5>
@@ -32,4 +32,4 @@ E-Mail: **365aenwork@gmail.com**
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter" /></p>
 <hr>
-<tt>Made by A.E.N</tt>
+<tt align="center">Made by A.E.N</tt>
