@@ -10,15 +10,15 @@ The Project I'm Working On <a href="https://github.com/AEShooter/Mathen">[Mathen
 <h3 align="left">Contact me:</h3>
 <p align="left">
 
-<a href="https://instagram.com/ahmetennn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /> Instagram </a>
+<a href="https://instagram.com/ahmetennn" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /> Instagram </a>
 
 
-<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /> Youtube </a>
+<a href="https://www.youtube.com/c/aeshooter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /> Youtube </a>
 
 
-<a href="https://discord.gg/scRh8nhzSx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/scRh8nhzSx" height="30" width="40" /> **AEShooter** Discord </a>
+<a href="https://discord.gg/scRh8nhzSx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/scRh8nhzSx" height="30" width="40" /> **AEShooter** Discord </a>
   
-<a href="https://discord.gg/VEm2M3aPep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VEm2M3aPep" height="30" width="40" /> **WINST** Discord </a>
+<a href="https://discord.gg/VEm2M3aPep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VEm2M3aPep" height="30" width="40" /> **WINST** Discord </a>
 
 E-Mail: **365aenwork@gmail.com**
 </p>
@@ -30,6 +30,6 @@ E-Mail: **365aenwork@gmail.com**
 <h5>Important features will be given here.</h5>
 
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter"/></p>
 <hr>
 <p align="center"><tt>Made by A.E.N</tt></p>
