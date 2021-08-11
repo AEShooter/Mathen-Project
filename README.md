@@ -3,7 +3,6 @@ Mathen Project Made by A.E.N
 <h3 align="center">Mathen Project</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aeshooter&label=Profile%20views&color=0e75b6&style=flat" alt="aeshooter" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter" /></p>
 
 Üzerinde Çalıştığım Proje <a href="https://github.com/AEShooter/Mathen">[Mathen Project]</a>. Mathen, küçük çaplı bir matematik projesi olacaktır. Amacı ise, basit işlemleri ve denklemleri kullanıcının girdiği girdiler ile çözüme ulaştırmaktır. Bu sayede yarına yetişmesi gereken matematik ödevini veya kendi projeniz için kullanacağınız bir fonksiyonu rahatlıkla çözebileceksiniz.<br><br>
 
@@ -31,3 +30,9 @@ E-Mail: **365aenwork@gmail.com**
 <p align="left">
 <h5>Önemli özellikler burada verilecektir.</h5>
 <h5>Important features will be given here.</h5>
+
+
+
+<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter" /></p>
+<hr>
