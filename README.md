@@ -13,7 +13,7 @@ A.E.N Mathen Project
 <h3 align="left">İletişim Adreslerim:</h3>
 <p align="left">
 <a href="https://instagram.com/ahmetennn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /><p>Instagram Adresim</p></a>
-<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /><p style="font-family: Tahome;">Youtube Kanalım</p></a>
+<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /><p style="font-family: Tahoma;">Youtube Kanalım</p></a>
 <a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /><p>GitHub Adresim</p></a>
 </p>
 
