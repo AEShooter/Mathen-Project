@@ -10,13 +10,13 @@ The Project I'm Working On <a href="https://github.com/AEShooter/Mathen">[Mathen
 <hr>
 <p align="left">
 
-<a href="https://instagram.com/ahmetennn" target="blank">Instagram Hesabım <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmetennn" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetennn" height="30" width="40" />Instagram Hesabım</a>
 
 
-<a href="https://www.youtube.com/c/aeshooter" target="blank">Youtube Kanalım <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aeshooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aeshooter" height="30" width="40" />Youtube Kanalım </a>
 
 
-<a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank">GitHub Hesabım <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/9zC3RYfy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9zC3RYfy" height="30" width="40" /> GitHub Hesabım</a>
 
 E-Mail: **365aenwork@gmail.com**
 </p>
@@ -24,9 +24,9 @@ E-Mail: **365aenwork@gmail.com**
 <h3 align="left">Langs and Tools:</h3>
 <hr>
 <p align="left">
-CSS
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-HTML
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-PHP
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <hr>
+
+<a href="https://www.w3schools.com/css/" target="_blank">CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
+<a href="https://www.w3.org/html/" target="_blank">HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+
+<a href="https://www.php.net" target="_blank">PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <hr>
