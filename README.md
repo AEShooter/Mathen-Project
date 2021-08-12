@@ -27,7 +27,9 @@ E-Mail: **365aenwork@gmail.com**
 <h3 align="left">Features:</h3>
 <p align="left">
 <h5>Önemli özellikler burada verilecektir.</h5>
+<p>12/08/2021 - Projenin tabanı Javascript olarak değiştirilmiştir !</p>
 <h5>Important features will be given here.</h5>
+<p>12/08/2021 - Project base changed to Javascript !</p>
 
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter"/></p>
