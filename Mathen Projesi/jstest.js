@@ -1,0 +1,1 @@
+console.log("Dikkat ! Bu dosya test amaçlıdır !");
