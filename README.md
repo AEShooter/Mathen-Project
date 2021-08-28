@@ -19,6 +19,8 @@ The Project I'm Working On <a href="https://github.com/AEShooter/Mathen">[Mathen
 <a href="https://discord.gg/scRh8nhzSx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/scRh8nhzSx" height="30" width="40" /> **AEShooter** Discord </a>
   
 <a href="https://discord.gg/VEm2M3aPep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VEm2M3aPep" height="30" width="40" /> **WINST** Discord </a>
+  
+<a href="https://discord.gg/esavkSH22g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VEm2M3aPep" height="30" width="40" /> **PenguinTux** Discord </a>
 
 E-Mail: **365aenwork@gmail.com**
 </p>
