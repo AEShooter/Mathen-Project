@@ -30,8 +30,10 @@ E-Mail: **365aenwork@gmail.com**
 <p align="left">
 <h5>Önemli özellikler burada verilecektir.</h5>
 <p>12/08/2021 - Projenin tabanı GDScript olarak değiştirilmiştir !</p>
+<p>12/10/2021 - Mathen Projemizin ilk versiyonu Yayınlandı ! Vatan millete hayırlı uğurlu olsun.</p>
 <h5>Important features will be given here.</h5>
 <p>12/08/2021 - Project base changed to GDScript !</p>
+<p>12/10/2021 - The first version of our Mathen Project is Released! Good luck to everyone.</p>
 
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeshooter&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="aeshooter"/></p>
